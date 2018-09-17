@@ -1,0 +1,9 @@
+{
+  "name": "webDevVer",
+  "version": "1.0.0",
+  "dependencies": {
+    "mssql": "^4.2.1",
+    "sql": "^0.78.0",
+    "tedious": "^2.6.4"
+  }
+}

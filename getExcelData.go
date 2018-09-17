@@ -20,6 +20,7 @@ var server = "winedb.database.windows.net"
 var port = 1433
 var user = "guy"
 var password = "Wilks2003"
+//TODO configure the regular wine table like the test wine table
 var database = "winedb"
 var names [1220]string
 var appelation [1220]string
